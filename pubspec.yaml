@@ -1,6 +1,6 @@
 name: flutter_cache_manager_supabase
 description: "CacheManager implementation for supabase storage. Inspired from flutter_cache_manager_firebase"
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/amitm29/supabase_cache_manager
 
 environment:
